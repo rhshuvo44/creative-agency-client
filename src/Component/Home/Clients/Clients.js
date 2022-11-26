@@ -49,7 +49,6 @@ const clients = [
 ];
 const Clients = () => {
   return (
-    <div className="">
       <div className="p-20">
         <h2 className="text-center text-3xl text[#171B4E] mb-10">
           Clients <span className=" text-[#7AB259]">Feedback</span>
@@ -99,7 +98,6 @@ const Clients = () => {
           ))}
         </Swiper>
       </div>
-    </div>
   );
 };
 

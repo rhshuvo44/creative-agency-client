@@ -1,4 +1,5 @@
 import React from "react";
+import Contact from "../Contact/Contact";
 import Navbar from "../Shared/Navbar";
 import Banner from "./Banner/Banner";
 import Clients from "./Clients/Clients";
@@ -16,7 +17,8 @@ const Home = () => {
       <Partner />
       <Services />
       <Works />
-      <Clients/>
+      <Clients />
+      <Contact />
     </>
   );
 };

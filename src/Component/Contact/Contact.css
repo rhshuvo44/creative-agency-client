@@ -1,0 +1,13 @@
+.contact .contact-info h2 {
+  font-family: "Poppins";
+  font-weight: 600;
+  line-height: 43px;
+  letter-spacing: 0.396px;
+}
+.contact .contact-info p {
+  font-family: "Poppins";
+  font-weight: 300;
+  line-height: 24px;
+  letter-spacing: 0.396px;
+  color: rgba(0, 0, 0, 0.7);
+}
