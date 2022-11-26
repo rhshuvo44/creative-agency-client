@@ -1,0 +1,14 @@
+.card figure {
+  justify-content: flex-start;
+}
+.client-portfolio .card .card-body {
+  padding: 1rem;
+}
+.client-portfolio .card .card-body p {
+  color: #707070;
+  font-family: "Poppins";
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.005em;
+}
