@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "../Shared/Navbar";
-import Banner from "./Banner";
-import Partner from "./Partner";
+import Banner from "./Banner/Banner";
+import Partner from "./Partner/Partner";
 import Services from "./Services/Services";
 import Works from "./Works/Works";
 

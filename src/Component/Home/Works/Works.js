@@ -1,8 +1,8 @@
 import React from "react";
 import { FreeMode, Pagination } from "swiper";
 import { Swiper, SwiperSlide } from "swiper/react";
-import "./Works.css";
 import work1 from "../../../images/carousel-1.png";
+import "./Works.css";
 
 const works = [
   {
@@ -40,7 +40,7 @@ const Works = () => {
             clickable: true,
           }}
           breakpoints={{
-            600: {
+            640: {
               slidesPerView: 1,
               spaceBetween: 20,
             },
