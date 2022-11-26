@@ -1,0 +1,9 @@
+.work-portfolio {
+  height: 400px;
+}
+.work-portfolio .swiper-pagination-bullet {
+  background: #242a65;
+}
+.work-portfolio .swiper-pagination-bullet-active {
+  background: #fbd062;
+}

@@ -3,6 +3,7 @@ import Navbar from "../Shared/Navbar";
 import Banner from "./Banner";
 import Partner from "./Partner";
 import Services from "./Services/Services";
+import Works from "./Works/Works";
 
 const Home = () => {
   return (
@@ -10,9 +11,10 @@ const Home = () => {
       <header>
         <Navbar />
         <Banner />
-        <Partner />
-        <Services />
       </header>
+      <Partner />
+      <Services />\
+      <Works />
     </>
   );
 };

@@ -1,7 +1,7 @@
 import React from "react";
 import "./Service.css";
 const Service = ({ service }) => {
-  const { title, image, description } = service;
+  const { title, description, image } = service;
   return (
     <div className="card service-card">
       <figure className="px-10 pt-10">

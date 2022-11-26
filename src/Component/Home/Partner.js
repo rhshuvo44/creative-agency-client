@@ -8,19 +8,19 @@ import img5 from "../../images/logos/uber.png";
 const Partner = () => {
   return (
     <div className="px-20 md:flex gap-10 my-10 items-center">
-      <div class="md:w-1/5">
+      <div className="md:w-1/5">
         <img src={img1} alt="..." title="..." />
       </div>
-      <div class="md:w-1/5 mt-5 md:mt-0">
+      <div className="md:w-1/5 mt-5 md:mt-0">
         <img src={img2} alt="..." title="..." />
       </div>
-      <div class="md:w-1/5 ">
+      <div className="md:w-1/5 ">
         <img src={img3} alt="..." title="..." />
       </div>
-      <div class="md:w-1/5 ">
+      <div className="md:w-1/5 ">
         <img src={img4} alt="..." title="..." />
       </div>
-      <div class="md:w-1/5">
+      <div className="md:w-1/5">
         <img src={img5} alt="..." title="..." />
       </div>
     </div>
