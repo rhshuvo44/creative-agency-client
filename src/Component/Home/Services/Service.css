@@ -1,0 +1,28 @@
+.service-card {
+  transition: all.5s;
+}
+.service-card:hover {
+  box-shadow: 0 20px 25px 25px rgb(0 0 0 / 0.1),
+    0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+.service-card .card-title {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 16px;
+  text-align: center;
+  letter-spacing: 0.396px;
+  text-transform: capitalize;
+  color: #111430;
+}
+.service-card p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 0.396px;
+  color: rgba(0, 0, 0, 0.7);
+}
